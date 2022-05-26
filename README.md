@@ -1,4 +1,4 @@
 # CNN
 
 description of our project 
-//figure this out
+//figure this out!
